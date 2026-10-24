@@ -1,0 +1,8 @@
+{
+  "name": "Remix Remix CecilIA - Triaje Clínico \u0026 Banco de Sangre NOM-253",
+  "description": "Plataforma de orientación en donación altruista de sangre, simulador de triaje clínico y marco normativo NOM-253-SSA1-2012 con IA especializada.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
